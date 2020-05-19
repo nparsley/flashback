@@ -1,6 +1,6 @@
 # OVERVIEW
 
-*  An interactive flaschcard app about React.
+*  An interactive flaschcard app.
 *  View the app here: <a href="https://flashback-nick-parsley.herokuapp.com/">Flashback</a>
 
 <img src='/images/flashback1.PNG'>
